@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello World (you)
+
+Welcome to my GitHub page 😎!
+Here, you’ll find a variety of fun projects — from VR/AR applications (personal, research, and club) to hackathons, full-stack study abroad projects, and class projects I've worked on since high school.
+
+I’d love to chat!
+Email: li.bra@northeastern.edu (cool email, right? libra)
 
 <!--
 **bradylii/bradylii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
