@@ -1,10 +1,12 @@
-## Hello World (you)
+## Hello World (AKA the 2 or 3 people that have opened my GitHub)
 
 Welcome to my GitHub page 😎!
-Here, you’ll find a variety of fun projects — from VR/AR applications (personal, research, and club) to hackathons, full-stack study abroad projects, and class projects I've worked on since high school.
+Here, you’ll find a variety of fun projects — from VR/AR applications (personal, research, and club) to hackathons, full-stack study abroad projects, and class projects I've worked on since high school. 
 
 I’d love to chat!
-Email: li.bra@northeastern.edu (cool email, right? libra)
+Email: li.bra@northeastern.edu (cool email, right? *libra*)
+
+Can you tell I like (`parentheses`)? If we work together, you might see this in the Jira and PR comments I do. Also a few of these emojis: 🫡 🫠
 
 <!--
 **bradylii/bradylii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
