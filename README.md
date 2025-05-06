@@ -6,7 +6,7 @@ Here, you’ll find a variety of fun projects — from VR/AR applications (perso
 I’d love to chat!
 Email: li.bra@northeastern.edu (cool email, right? *libra*)
 
-Can you tell I like (`parentheses`)? If we work together, you might see this in the Jira and PR comments I do. Also a few of these emojis: 🫡 🫠
+Can you tell I like (`parentheses`)? If we work together, you might see this in the Jira and PR comments I do; I like documenting my work. And... you'll see a few of these emojis: 🫡 🫠
 
 <!--
 **bradylii/bradylii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
