@@ -1,9 +1,9 @@
-## Hello World (AKA the 2 or 3 people that have ever opened my GitHub)
+## Hello
 
 Welcome to my GitHub page 😎!
 Here, you’ll find a variety of fun projects — from VR/AR applications (personal, research, and club) to hackathons, full-stack study abroad projects, and class projects I've worked on since high school. 
 
-Can you tell I like (`parentheses`)? If we work together, you might see this in the Jira and PR comments I do; I like documenting my work. And... you'll see a few of these emojis too: 🫡 🫠
+Can you tell I like (`parentheses`)? If we work together, you might see this in the Jira and PR comments I do; I like documenting my work.
 
 I’d love to chat!
 Email: li.bra@northeastern.edu (cool email, right? *libra*, no, not cause of astrology)
