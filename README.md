@@ -6,7 +6,7 @@ Here, you’ll find a variety of fun projects — from VR/AR applications (perso
 Can you tell I like (`parentheses`)? If we work together, you might see this in the Jira and PR comments I do; I like documenting my work.
 
 I’d love to chat!
-Email: li.bra@northeastern.edu (cool email, right? *libra*, no, not cause of astrology)
+Email: li.bra@northeastern.edu (*libra*, no, not cause of astrology)
 
 <!--
 **bradylii/bradylii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
