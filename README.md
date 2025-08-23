@@ -1,12 +1,15 @@
-## Hello Wor-
+## Hello :D
 
 Welcome to my GitHub page 😎!
 Here, you’ll find a variety of fun projects — from VR/AR applications (personal, research, and club) to hackathons, full-stack study abroad projects, and class projects I've worked on since high school. 
 
 Can you tell I like (`parentheses`)? If we work together, you might see this in the Jira and PR comments I do; I like documenting my work.
 
-I’d love to chat!
+A more digestible display of my projects and experiences on my [portfolio site](https://bradyli.dev/)!
+
+I’d love to chat! 
 Email: li.bra@northeastern.edu
+
 
 <!--
 **bradylii/bradylii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
