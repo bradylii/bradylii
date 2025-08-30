@@ -1,7 +1,7 @@
 ## Hello :D
 
 Welcome to my GitHub page 😎!
-Here, you’ll find a variety of fun projects — from VR/AR applications (personal, research, and club) to hackathons, full-stack study abroad projects, and class projects I've worked on since high school. 
+Here, you’ll find a variety of fun projects — from VR/AR applications (personal, research, and club) to hackathons, full-stack study abroad projects, and class projects I've worked on since high school. FYI many research and work projects I've spent time on are not public!  
 
 Can you tell I like (`parentheses`)? If we work together, you might see this in the Jira and PR comments I do; I like documenting my work.
 
